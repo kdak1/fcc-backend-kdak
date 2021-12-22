@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Andrew Gregory"
+	"author": "Andrew Gregory",
+	"description": "Test project for Back End Development with FCC"
 }
